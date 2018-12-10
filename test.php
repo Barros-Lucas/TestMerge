@@ -1,7 +1,5 @@
 ligne 1 fichier master et branche
 
-ligne 2 fichier master modifier par branche et oui modifier
+ligne 2 fichier master modifier par branche
 
-
-
-ligne 4 fichier branch seul
+ligne 3 fichier master seul
